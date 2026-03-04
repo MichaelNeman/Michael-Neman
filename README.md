@@ -1,4 +1,4 @@
-# Hi, I'm Michael Neman 👋
+# Michael Neman
 ### Data Scientist | Environmental Science Specialist
 
 I am a Data Science professional  with over 15 years of experience in environmental analysis and laboratory leadership[cite: 13, 22]. I specialize in bridging the gap between complex raw data and actionable insights through statistical modeling and automation.

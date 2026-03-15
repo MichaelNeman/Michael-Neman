@@ -7,7 +7,7 @@ I am a Data Science professional  with over 15 years of experience in environmen
 
 ## Featured Projects
 
-### [Predicting Nutrient Loads in Urban Stormwater Runoff](LINK_TO_REPO_HERE)
+### [Predicting Nutrient Loads in Urban Stormwater Runoff](https://github.com/MichaelNeman/Predicting-Nutrient-Loads-in-Runoff)
 **Tools:** Python, R, 
 * Analyzed the National Stormwater Quality Database(NSQD).
 * Developed predictive models to forecast nutrient loads in urban stormwater runoff.

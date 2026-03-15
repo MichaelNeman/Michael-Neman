@@ -12,7 +12,7 @@ I am a Data Science professional  with over 15 years of experience in environmen
 * Analyzed the National Stormwater Quality Database(NSQD).
 * Developed predictive models to forecast nutrient loads in urban stormwater runoff.
 
-### [Data Analysis of ACT Score Factors](LINK_TO_REPO_HERE)
+### [Data Analysis of ACT Score Factors](https://github.com/MichaelNeman/Nebraska-ACT-Scores-Dashboard)
 **Tools:** R, Statistical Analysis.
 * Conducted a deep dive into Nebraska public school demographics and identities.
 * Analyzed trends across a five-year span (2016-2021) to identify key performance drivers.

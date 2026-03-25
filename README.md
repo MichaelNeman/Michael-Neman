@@ -17,7 +17,7 @@ I am a Data Science professional  with over 15 years of experience in environmen
 * Conducted a deep dive into Nebraska public school demographics and identities.
 * Analyzed trends across a five-year span (2016-2021) to identify key performance drivers.
 
-### [Global Consumer Price Index Forecasting](LINK_TO_REPO_HERE)
+### [Global Consumer Price Index Forecasting](https://github.com/MichaelNeman/CPI_analysis)
 **Tools:** R, Time-Series Analysis
 * Analyzed global CPI values from 2015-2023.
 * Developed predictive models to forecast economic trends for 2024.
